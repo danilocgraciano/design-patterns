@@ -29,3 +29,5 @@ A separação dos tipos de padrões se dá pelo nome dos pacotes:
 * Adapter : é um padrão de design estrutural que permite a colaboração de objetos com interfaces incompatíveis.
 
 * Bridge : é um padrão de design estrutural que permite dividir uma classe grande ou um conjunto de classes estreitamente relacionadas em duas hierarquias separadas — abstração e implementação — que podem ser desenvolvidas independentemente uma da outra.
+
+* Composite : é um padrão de design estrutural que permite compor objetos em estruturas de árvores e trabalhar com essas estruturas como se fossem objetos individuais.
