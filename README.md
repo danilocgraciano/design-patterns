@@ -4,9 +4,19 @@ Este repositório representa uma revisão de conceitos sobre Design Patterns.
 
 Toda a implementação foi feita em Java, mas os conceitos independem da linguagem utilizada.
 
-Foi utilizado um artigo de referência, disponível em https://medium.com/xp-inc/desing-patterns-parte-2-2a61878846d.
+Foi utilizado um artigo de referência, disponível em https://medium.com/xp-inc/desing-patterns-parte-2-2a61878846d, e também outras fontes disponíveis na internet.
 
-A separação dos tipos de padrões se dá pelo nome dos pacotes:
+## O que são Design Patterns?
+
+Padrões de projeto são alternativas para que o desenvolvedor consiga escrever código com responsabilidades mais bem definidas, com um baixo acoplamento, e que evolua de maneira natural. 
+
+Características essas que não são encontrados em sistemas procedurais, que tipicamente apresentam código complexo, cheio de ifs, e que fazem muita coisa, tornando a manutenção custosa.
+
+Códigos que fazem bom uso de Orientação a Objetos evoluem geralmente não pela adição de mais um if, mas sim pela criação de mais uma estratégia, mais um observador, mais um estado, e assim por diante.
+
+Padrões de projeto no fim apenas fazem bom uso da orientação a objetos, e seus conceitos e mecanismos, como encapsulamento, abstrações, interfaces, polimorfismo, e etc.
+
+Neste projeto a separação dos tipos de padrões se dá pelo nome dos pacotes:
 
 * C - Criacionais
 * S - Estruturais
