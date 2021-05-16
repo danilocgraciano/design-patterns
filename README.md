@@ -31,3 +31,5 @@ A separação dos tipos de padrões se dá pelo nome dos pacotes:
 * Bridge : é um padrão de design estrutural que permite dividir uma classe grande ou um conjunto de classes estreitamente relacionadas em duas hierarquias separadas — abstração e implementação — que podem ser desenvolvidas independentemente uma da outra.
 
 * Composite : é um padrão de design estrutural que permite compor objetos em estruturas de árvores e trabalhar com essas estruturas como se fossem objetos individuais.
+
+* Decorator : é um padrão de design estrutural que permite anexar novos comportamentos aos objetos, colocando-os dentro de objetos especiais do invólucro que contêm os comportamentos.
