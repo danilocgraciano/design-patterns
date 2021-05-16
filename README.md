@@ -23,3 +23,9 @@ A separação dos tipos de padrões se dá pelo nome dos pacotes:
 * Singleton : é um padrão de design criacional que permite garantir que uma classe tenha apenas uma instância, enquanto fornece um ponto de acesso global a essa instância.
 
 * Prototype : é um padrão de design criacional que permite copiar objetos existentes sem tornar seu código dependente de suas classes.
+
+## Padrões Estruturais
+
+* Adapter : é um padrão de design estrutural que permite a colaboração de objetos com interfaces incompatíveis.
+
+* Bridge : é um padrão de design estrutural que permite dividir uma classe grande ou um conjunto de classes estreitamente relacionadas em duas hierarquias separadas — abstração e implementação — que podem ser desenvolvidas independentemente uma da outra.
